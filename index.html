@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>mtc test - 08122020</title>
+		<link rel="stylesheet" href="styles.css" />
+		<link rel="stylesheet" href="button.css" />
+	</head>
+	<body>
+		<div class="wrapper">
+			<header>
+				<h1 class="title">Пора отдыхать!</h1>
+				<h3 class="choosen hide">
+					<!-- kind of breadcrumbs with made choice but without links - dinamically -->
+					Вы выбрали
+				</h3>
+			</header>
+			<main>
+				<button id="startButton" class="start">Хочу в отпуск!</button>
+
+				<section id="selectionSection" class="selection hide">
+					<div class="options__container">
+						<!-- will be filled with images dinamically (image+caption - both clickable -->
+					</div>
+					<h2 class="question">
+						Выберите <span class="question__object"><!-- here will be question object dinamically --></span>.
+					</h2>
+				</section>
+
+				<section id="finalSection" class="final hide">
+					<!-- here will be final picture and some text -->
+					<img class="final__image" src="https://picsum.photos/600/300" alt="final" />
+					<figcaption class="final__caption">Отправляемся!</figcaption>
+				</section>
+			</main>
+		</div>
+		<script src="./selection.js"></script>
+	</body>
+</html>

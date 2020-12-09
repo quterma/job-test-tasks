@@ -1,0 +1,374 @@
+{
+  "options": [
+    {
+      "title": "Море и солнце",
+      "root": null,
+      "image": "https://loremflickr.com/200/300/beach,sea/all"
+    },
+    {
+      "title": "Снег и горы",
+      "root": null,
+      "image": "https://loremflickr.com/200/300/snow,skiing/all"
+    },
+    {
+      "title": "История и культура",
+      "root": null,
+      "image": "https://loremflickr.com/200/300/oldcity"
+    },
+
+    {
+      "title": "Черное море",
+      "root": "Море и солнце",
+      "image": "https://loremflickr.com/200/300/beach,sea/all"
+    },
+    {
+      "title": "Средиземное море",
+      "root": "Море и солнце",
+      "image": "https://loremflickr.com/200/300/beach,sea/all"
+    },
+    {
+      "title": "Баренцево море",
+      "root": "Море и солнце",
+      "image": "https://loremflickr.com/200/300/ice,sea/all"
+    },
+
+    {
+      "title": "Российские горы",
+      "root": "Снег и горы",
+      "image": "https://loremflickr.com/200/300/snow,skiing/all"
+    },
+    {
+      "title": "Европейские горы",
+      "root": "Снег и горы",
+      "image": "https://loremflickr.com/200/300/snow,skiing/all"
+    },
+    {
+      "title": "Американские горы",
+      "root": "Снег и горы",
+      "image": "https://loremflickr.com/200/300/snow,skiing/all"
+    },
+
+    {
+      "title": "Культура России",
+      "root": "История и культура",
+      "image": "https://loremflickr.com/200/300/oldcity,russia/all"
+    },
+    {
+      "title": "Зарубежная культура",
+      "root": "История и культура",
+      "image": "https://loremflickr.com/200/300/oldcity"
+    },
+
+    {
+      "title": "Турция",
+      "root": "Средиземное море",
+      "image": "https://loremflickr.com/200/300/beach,sea,turkey/all"
+    },
+    {
+      "title": "Италия",
+      "root": "Средиземное море",
+      "image": "https://loremflickr.com/200/300/beach,sea,italy/all"
+    },
+    {
+      "title": "Франция",
+      "root": "Средиземное море",
+      "image": "https://loremflickr.com/200/300/beach,sea,france/all"
+    },
+
+    {
+      "title": "Сочи",
+      "root": "Черное море",
+      "image": "https://loremflickr.com/200/300/beach,sea/all"
+    },
+    {
+      "title": "Крым",
+      "root": "Черное море",
+      "image": "https://loremflickr.com/200/300/beach,sea/all"
+    },
+    {
+      "title": "Батуми",
+      "root": "Черное море",
+      "image": "https://loremflickr.com/200/300/beach,sea/all"
+    },
+
+    {
+      "title": "Мурманск",
+      "root": "Баренцево море",
+      "image": "https://loremflickr.com/200/300/ice,sea/all"
+    },
+
+    {
+      "title": "Роза Хутор",
+      "root": "Российские горы",
+      "image": "https://loremflickr.com/200/300/snow,skiing,mountain/all"
+    },
+    {
+      "title": "Бобровый лог",
+      "root": "Российские горы",
+      "image": "https://loremflickr.com/200/300/snow,skiing,mountain/all"
+    },
+    {
+      "title": "Донбай",
+      "root": "Российские горы",
+      "image": "https://loremflickr.com/200/300/snow,skiing,mountain/all"
+    },
+
+    {
+      "title": "Швейцария",
+      "root": "Европейские горы",
+      "image": "https://loremflickr.com/200/300/snow,skiing,mountain/all"
+    },
+    {
+      "title": "Швеция",
+      "root": "Европейские горы",
+      "image": "https://loremflickr.com/200/300/snow,skiing,mountain/all"
+    },
+    {
+      "title": "Германия",
+      "root": "Европейские горы",
+      "image": "https://loremflickr.com/200/300/snow,skiing,mountain/all"
+    },
+
+    {
+      "title": "Калифорния",
+      "root": "Американские горы",
+      "image": "https://loremflickr.com/200/300/snow,skiing,mountain/all"
+    },
+    {
+      "title": "Юта",
+      "root": "Американские горы",
+      "image": "https://loremflickr.com/200/300/snow,skiing,mountain/all"
+    },
+
+    {
+      "title": "Санкт-Петербург",
+      "root": "Культура России",
+      "image": "https://loremflickr.com/200/300/oldcity,russia/all"
+    },
+    {
+      "title": "Золотое кольцо",
+      "root": "Культура России",
+      "image": "https://loremflickr.com/200/300/oldcity,russia/all"
+    },
+
+    {
+      "title": "Северная Корея",
+      "root": "Зарубежная культура",
+      "image": "https://loremflickr.com/200/300/northkorea"
+    },
+    {
+      "title": "Сомали",
+      "root": "Зарубежная культура",
+      "image": "https://loremflickr.com/200/300/somali"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Турция",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Турция",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Италия",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Италия",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Франция",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Франция",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Сочи",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Сочи",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Крым",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Крым",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Батуми",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Батуми",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Мурманск",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Мурманск",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Роза Хутор",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Роза Хутор",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Бобровый лог",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Бобровый лог",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Донбай",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Донбай",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Швейцария",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Швейцария",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Швеция",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Швеция",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Германия",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Германия",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Калифорния",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Калифорния",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Юта",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Юта",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Санкт-Петербург",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Санкт-Петербург",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Золотое кольцо",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Золотое кольцо",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Северная Корея",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Северная Корея",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    },
+
+    {
+      "title": "Хороший отель",
+      "root": "Сомали",
+      "image": "https://loremflickr.com/200/300/hotel"
+    },
+    {
+      "title": "Хорошая палатка",
+      "root": "Сомали",
+      "image": "https://loremflickr.com/200/300/tent,camp"
+    }
+  ]
+}

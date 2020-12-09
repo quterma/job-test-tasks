@@ -1,0 +1,123 @@
+body {
+	padding: 0;
+	margin: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+
+	background-image: linear-gradient(135deg, #0042d9 0%, #0093ff 60%, #0078ff 100%);
+}
+
+.wrapper {
+	width: 880px;
+	height: 80vh;
+	margin: 5vh auto;
+	padding: 1rem;
+	border: 1px solid rgb(165, 103, 23);
+	border-radius: 1rem;
+
+	display: flex;
+	flex-direction: column;
+}
+
+.title {
+	text-align: center;
+}
+
+.choosen {
+	text-align: center;
+}
+
+main {
+	width: 100%;
+	border: 1px solid rgb(165, 103, 23);
+	border-radius: 1rem;
+	flex: 1;
+	padding-top: 1rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.start {
+	outline: none;
+	transition: all 0.15s ease-in;
+}
+
+.start:hover {
+	opacity: 0.8;
+}
+
+.start:active {
+	transform: scale(0.9);
+	opacity: 1;
+}
+
+.hide {
+	display: none;
+}
+
+.show {
+	display: block;
+}
+
+.options__container {
+	display: flex;
+	justify-content: center;
+}
+
+.option__caption {
+	text-align: center;
+}
+
+.question {
+	text-align: center;
+}
+
+.final {
+	text-align: center;
+}
+
+figure {
+	cursor: pointer;
+	transition: all 0.1s ease-out;
+	margin: 1.2rem;
+}
+
+figure:hover {
+	opacity: 0.8;
+}
+
+figure:active {
+	transform: scale(0.98);
+	opacity: 1;
+}
+
+.title {
+	font-size: 2.5rem;
+	color: rgb(175, 231, 233);
+}
+
+.choosen {
+	font-size: 1.2rem;
+	color: rgba(255, 255, 255, 0.9);
+}
+
+.final__caption {
+	font-size: 2rem;
+	font-weight: bold;
+	margin-top: 1rem;
+	color: rgb(255, 227, 227);
+}
+
+.question {
+	font-size: 1.5rem;
+	color: rgba(44, 9, 9, 0.9);
+}
+
+.option__caption {
+	font-size: 1.1rem;
+	margin-top: 0.3rem;
+	color: rgba(61, 10, 10, 0.9);
+}
